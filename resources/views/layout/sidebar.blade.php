@@ -359,11 +359,11 @@
 			<div class="content">
 				<div class="page-inner">
 					<div class="page-header">
-					<h1>HALO</h1>
+					@yield('content')
 					</div>
-					</div>
-					</div>
-					</div>
+				</div>
+			</div>
+		</div>
 		
 
 
